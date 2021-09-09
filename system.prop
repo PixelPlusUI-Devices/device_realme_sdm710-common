@@ -85,8 +85,8 @@ ro.vendor.qti.core_ctl_max_cpu=4
 
 # PPUI
 ro.ppui.device_name=Realme 5 Pro
-ro.ppui.version=3.7
-ro.ppui.version_code=Ragnarok
+ro.ppui.version=3.9
+ro.ppui.version_code=Eternal
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=goshawk22
 
